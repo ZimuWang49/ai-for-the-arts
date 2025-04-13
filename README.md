@@ -3,7 +3,7 @@
 This repository contains my coursework and projects for the AI for the Arts and Humanities course. It includes code, documentation, and insights into how AI is used in creative fields.
 
 ## GUID
-**GUID:AI_A_Portfolio_2799834
+GUID:AI_A_Portfolio_2799834
 
 ## Goals
 
