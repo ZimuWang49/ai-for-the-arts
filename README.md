@@ -16,7 +16,7 @@ GUID:AI_A_Portfolio_2799834
 
 This repository includes the following files:
 
-1. **Python Notebooks**:
+**Python Notebooks**:
    - `Machine-Learning-by-Example-from-Start-to-End.ipynb`
    - `coding_exercises.ipynb`
    - `creative_llm_design.ipynb`
